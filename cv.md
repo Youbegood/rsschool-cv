@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Alexander Gaiev
 
 <div id="webaddress">
@@ -12,11 +11,11 @@ I am fond of web design. Want to be able Junior Frontend developer for the first
 
 ## Currently
 
-Work as a freelancer
+Work as a freelancer.
 
 ### Specialized in
 
-UI/UX Design
+UI/UX Design.
 
 ## Education
 
@@ -32,9 +31,3 @@ UI/UX Design
 <!-- ### Footer
 
 Last updated: Feb 2021 -->
-=======
-# About me
-
-- Alexander
-- 23 years
->>>>>>> 5dcba74294416e1c681d49639345e71ca82c142a
