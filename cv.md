@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Alexander Gaiev
 
 <div id="webaddress">
@@ -31,3 +32,9 @@ UI/UX Design
 <!-- ### Footer
 
 Last updated: Feb 2021 -->
+=======
+# About me
+
+- Alexander
+- 23 years
+>>>>>>> 5dcba74294416e1c681d49639345e71ca82c142a
