@@ -1,4 +1,4 @@
-# Alexander Gaiev
+# Alexander Galiev
 
 <div id="webaddress">
 <a href="https://t.me/goodbeyou">Text me here</a>
@@ -13,7 +13,7 @@ I am fond of web design. Want to be able Junior Frontend developer for the first
 
 Work as a freelancer.
 
-### Specialized in
+## Specialized in
 
 UI/UX Design.
 
