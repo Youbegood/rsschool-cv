@@ -1,46 +1,24 @@
 # Alexander Galiev
 
 <div id="webaddress">
-<a href="https://t.me/goodbeyou">Text me here</a>
-<<<<<<< HEAD
-=======
+<a href="https://t.me/goodbeyou">Telegram</a>
 | <a href="https://discord.com/users/348062741807890452">Discord</a>
->>>>>>> 6571d56 (update cv content)
-| <a href="alexander.galiev0397@gmail.com">alexander.galiev0397@gmail.com</a>
+| <a href="alexander.galiev0397@gmail.com">E-mail</a>
 </div>
 
 ## About
 
-<<<<<<< HEAD
-I am fond of web design. Want to be able Junior Frontend developer for the first time.
-
-## Currently
-
-Work as a freelancer.
-
-## Specialized in
-
-UI/UX Design.
-=======
 I work as a designer in an engineering company. My responsibilities include graphic design, photography, and 3D visualization. I’m now focused on transitioning into web development and gaining a strong understanding of web technologies and UI/UX principles.
 
 ## Currently
 
 I work as a designer in an engineering company. I continue to grow my design expertise and also aim to learn the basics of web development to expand my skill set.
->>>>>>> 6571d56 (update cv content)
 
 ## Education
 
 `2014-2020`
 **Shukhov Belgorod State Technological University**
 
-<<<<<<< HEAD
-### Skills
-
-- Prototyping
-- Responsive design skills
-- English – intermediate
-=======
 ## Skills
 
 - UI/UX Design
@@ -50,7 +28,6 @@ I work as a designer in an engineering company. I continue to grow my design exp
 - 3D visualization (Blender)
 - Branding and merchandise design
 - English – Intermediate
->>>>>>> 6571d56 (update cv content)
 
 <!-- ### Footer
 
