@@ -1,5 +1,5 @@
 # Alexander Galiev
-
+![image-6175.png](https://i.postimg.cc/SK3MnbQd/image-6175.png)
 <div id="webaddress">
 <a href="https://t.me/goodbeyou">Telegram</a>
 | <a href="https://discord.com/users/348062741807890452">Discord</a>
@@ -29,15 +29,15 @@ I work as a designer in an engineering company. I continue to grow my design exp
 - Branding and merchandise design
 - English – Intermediate
 
+## Sample Code
+```javascript
+// Return the sum of all of the positives ones
+function positiveSum(arr) {
+  return arr
+    .filter(num => num > 0)
+    .reduce((sum, num) => sum + num, 0);
+}
+```
 <!-- ### Footer
 
-Last updated: Feb 2021 -->
-<<<<<<< HEAD
-=======
-# About me
-
-- Alexander
-- 23 years
->>>>>>> 5dcba74 (added cv file)
-=======
->>>>>>> 390c25e (fix: change the cv text)
+Last updated: Jul 2025 -->
