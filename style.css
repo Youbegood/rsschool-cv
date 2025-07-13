@@ -1,0 +1,85 @@
+
+header {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  margin-bottom: 20px;
+  }
+
+header h1 {
+  margin: 0;
+  font-size: 28px;
+}
+
+header p {
+  margin: 8px 0 0;
+  font-size: 18px;
+  color: #666;
+}
+
+img {
+  width: auto;
+  height: auto;
+  border-radius: 10%;
+  display: block;
+}
+
+.year {
+  background-color: #f0f0f0;
+  padding: 2px 8px;
+  border-radius: 6px;
+  font-size: 0.85em;
+  color: #555;
+  margin-right: 10px;
+}
+
+.school {
+  color: #000;
+}
+
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.footer {
+  margin-top: 40px;
+  padding: 20px 0;
+  border-top: 1px solid #ccc;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.footer-content img {
+  height: 32px;
+  vertical-align: middle;
+}
+.nav ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+.nav li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+  padding: 8px 12px;
+  transition: color 0.2s ease;
+}
+
+.nav li a:hover {
+  color: #007acc;
+}
